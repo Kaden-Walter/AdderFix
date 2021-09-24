@@ -1,0 +1,54 @@
+body
+{
+  background-color: coral;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+#button2
+{
+  background-color: khaki;
+  width: 100px;
+  height: 65px;
+  font-size: 40px;
+  font-family: serif;
+}
+#button2:hover
+{
+  width: 95px;
+  height: 63px;
+  background-color: #e63d00;
+}
+input[type = "button"]
+{
+  background-color: khaki;
+  width: 65px;
+  height: 65px;
+  font-size: 40px;
+  font-family: serif;
+
+}
+input:hover[type = "button"]
+{
+  background-color: #e63d00;
+  width: 63px;
+  height: 63px;
+}
+#h1
+{
+  font-family: monospace;
+  font-size: 75px;
+  color: khaki;
+}
+#h4
+{
+  font-family: monospace;
+  font-size: 25px;
+  color: khaki;
+}
+#output
+{
+  font-family: monospace;
+  font-size: 20px;
+  color: khaki;
+}
